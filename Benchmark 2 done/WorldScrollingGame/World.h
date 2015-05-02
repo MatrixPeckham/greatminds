@@ -1,0 +1,12 @@
+#define WORLD_WIDTH 3840
+#define WORLD_HEIGHT 768
+#define VIEWPORT_XSPEED 5
+#define VIEWPORT_YSPEED				0
+#define VIEWPORT_AUTOSCROLL_X		false
+#define VIEWPORT_AUTOSCROLL_Y		false
+#define SPACING						300
+#define ALPHA						255
+#define Y							350
+#define THRESHOLD					.3
+#define STARTX						65
+#define STARTY						65

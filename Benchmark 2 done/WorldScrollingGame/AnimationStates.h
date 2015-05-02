@@ -1,0 +1,14 @@
+//Animation States Override
+#define STDR						0
+#define STDL						1
+#define MR							2	
+#define ML							3
+#define DUCKR						4
+#define DUCKL						5
+#define JUMPR						6
+#define JUMPL						7
+#define UP							8
+#define DOWN						9
+#define HITR						10
+#define HITL						11
+#define DEAD						12

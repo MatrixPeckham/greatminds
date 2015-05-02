@@ -1,0 +1,4 @@
+./animations/animations.txt
+./animations/animations.txt
+\0
+0 0 80 80

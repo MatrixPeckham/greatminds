@@ -1,0 +1,39 @@
+6 64 64
+STANDINGRIGHT
+./images/player/playerr.png
+\0
+0 -1
+STANDINGLEFT
+./images/player/playerl.png
+\0
+0 -1
+RUNNING RIGHT
+./images/player/runr1.png
+./images/player/runr2.png
+./images/player/runr3.png
+./images/player/runr4.png
+\0
+0 1 2 3 -1
+RUNNING LEFT
+./images/player/runl1.png
+./images/player/runl2.png
+./images/player/runl3.png
+./images/player/runl4.png
+\0
+0 1 2 3 -1
+DUCKR
+./images/player/duckr.png
+\0
+0 -1
+DUCKL
+./images/player/duckl.png
+\0
+0 -1
+JUMPR
+./images/player/jumpr.png
+\0
+0 -1
+JUMPL
+./images/player/jumpl.png
+\0
+0 -1
